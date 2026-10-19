@@ -2,7 +2,7 @@
 
 A site intended to be used as a data-driven dashboard widget.
 
-**Live site:** 
+**Live site:** https://aefitzgeraldtcu.github.io/personal-data-dashboard/
 
 ## Built with
 - Semantic HTML5
